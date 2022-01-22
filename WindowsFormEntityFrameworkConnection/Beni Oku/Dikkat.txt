@@ -1,0 +1,13 @@
+1
+WindowsFormEntityFrameworkConnection.sql içerisinde bulunan kodları 
+MSSQL veri tabanı uygulaması içerisinde
+oturum açmış bir şekilde iken "New Query"
+butonuna tıklayıp yapıştıralım ve ardından "Execute" butonunu tıklayalım.
+
+2
+Projenizde bulunan App.config içerisinde bulunan connectionStrings taglari içerisinde bulunan değerleri
+Kendi MSSQL bağlantı bilgilerinize göre uyarlamanız gerekiyor. 
+Bağlantı yolu kullanıcı adı ve şifre gibi bilgiler...
+
+3 
+Cuma namazlarını kaçırmayalım.
